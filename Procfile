@@ -1,1 +1,1 @@
-web: index.html
+web: run index.html
