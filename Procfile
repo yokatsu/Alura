@@ -1,1 +1,1 @@
-web: run index.html
+web: node index.html
