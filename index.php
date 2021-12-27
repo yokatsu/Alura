@@ -9,12 +9,10 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 	</head>
-
 	<body>
 		<header>
 			<div class="caixa">
 				<h1><img src="imagens/logo.png"></h1>
-
 				<nav>
 					<ul class = "lista">
 						<li><a href="index.php">Home</a></li>
