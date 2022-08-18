@@ -158,6 +158,7 @@ footer{
 		
 	}
 	.lista-beneficios{
-		display:block;
+		display:flex;
+		flex-direction: column;
 	}
 }
