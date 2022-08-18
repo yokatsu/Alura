@@ -91,7 +91,6 @@ nav a:hover {
 }
 .beneficios li{
 	float:left;
-	display:block;
 	margin: 0 10px;
 	width: max-content;
 }
