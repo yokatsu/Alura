@@ -6,6 +6,7 @@
 	<title>Produtos</title>
 	<link rel ="stylesheet" type= "text/css" href = "css/style2.css">
 	<link rel= "stylesheet" href= "css/reset.css">
+	  <link href="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap" rel="stylesheet">
    </head>
   
 	<body>
