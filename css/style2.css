@@ -2,6 +2,9 @@ header{
 	background-color:#BBBBBB;
 	padding:20px 0;/*20 equivale ao topo e ao bottom e o 0 equivale aos lados*/
 }
+body {
+	font-family: 'Montserrat', sans-serif;
+}
 nav{
 	position:absolute;
 	top:110px;
